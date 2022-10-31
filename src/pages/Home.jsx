@@ -34,18 +34,18 @@ const featureData = [
   {
     title: "Quick Delivery",
     imgUrl: featureImg01,
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, doloremque.",
+    desc: "Quick and easy food delivery in India.",
   },
 
   {
     title: "Super Dine In",
     imgUrl: featureImg02,
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, doloremque.",
+    desc: "Same-day delivery, order before 7.30pm. You can schedule your order in advance too. Delivery and pick up between 11.30am-7.30pm.",
   },
   {
     title: "Easy Pick Up",
     imgUrl: featureImg03,
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, doloremque.",
+    desc: "Explore Sapphire Foods board Party Pickups, followed by 6351 ... Finger Food Appetizers.",
   },
 ];
 
@@ -92,7 +92,7 @@ const Home = () => {
   }, [category]);
 
   return (
-    <Helmet title="Home">
+    <Helmet title="Sapphire Foods">
       <section>
         <Container>
           <Row>

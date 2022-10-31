@@ -12,7 +12,7 @@ const Cart = () => {
   const cartItems = useSelector((state) => state.cart.cartItems);
   const totalAmount = useSelector((state) => state.cart.totalAmount);
   return (
-    <Helmet title="Cart">
+    <Helmet title="Cart Sapphire Foods">
       <CommonSection title="Your Cart" />
       <section>
         <Container>

@@ -41,7 +41,7 @@ const AllFoods = () => {
   };
 
   return (
-    <Helmet title="All-Foods">
+    <Helmet title="All-Foods - Sapphire Foods">
       <CommonSection title="All Foods" />
 
       <section>

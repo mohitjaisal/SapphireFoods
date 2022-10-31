@@ -13,7 +13,7 @@ const Login = () => {
   };
 
   return (
-    <Helmet title="Login">
+    <Helmet title="Login - Sapphire Foods">
       <CommonSection title="Login" />
       <section>
         <Container>

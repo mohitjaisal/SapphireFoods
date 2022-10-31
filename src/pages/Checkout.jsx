@@ -36,7 +36,7 @@ const Checkout = () => {
   };
 
   return (
-    <Helmet title="Checkout">
+    <Helmet title="Checkout - Sapphire Foods">
       <CommonSection title="Checkout" />
       <section>
         <Container>
