@@ -1,10 +1,10 @@
-## Food Ordering App
-
+<p align="center"><img src="https://raw.githubusercontent.com/mohitjaisal/SapphireFoods/master/src/assets/images/res-logo.png"></p>
+<h1 align="center">Sapphire Foods</h1>
 ### Features:
 
 ---
 
-##### Here's features included in this project
+### Here's features included in this project
 
 - Add to cart functionality
 - Shopping cart functionality
