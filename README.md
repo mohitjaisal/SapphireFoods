@@ -50,15 +50,29 @@ Welcome to SapphireFoods, a food delivery application that allows users to brows
 
 ---
 
-##### To start the project along with me just download the start-up file and run the available script
+### Installation:
+To run SapphireFoods locally on your machine, follow these steps:
 
-```javascript
-// first install all necessary dependencies
+- Clone the repository:
+```
+git clone https://github.com/mohitjaisal/SapphireFoods.git
+```
 
-npm i
+- Navigate to the project directory:
+```
+cd SapphireFoods
+```
 
-// next run
+- Install the dependencies:
+```
+npm install
+```
 
+- Set up the environment variables:
+ - Rename the .env.example file to .env.
+ - Fill in the required values for the environment variables.
+
+- Start the development server:
+```
 npm start
-
 ```
