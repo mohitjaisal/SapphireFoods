@@ -76,3 +76,17 @@ npm install
 ```
 npm start
 ```
+
+---
+
+### Usage
+Once you have the application up and running, here are a few pointers on how to use SapphireFoods:
+
+- Browse the restaurant listings and explore the menu options.
+- Use the search and filter options to narrow down your choices.
+- Create an account or log in if you already have one.
+- Add items to your cart and proceed to the checkout page.
+- Enter your delivery details and choose a payment method.
+- Review your order and confirm the payment.
+- Track the status of your order through real-time updates.
+- Provide feedback and ratings for restaurants you've ordered from.
