@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/mohitjaisal/SapphireFoods/master/src/assets/images/res-logo.png"></p>
 <h1 align="center">Sapphire Foods</h1>
 
----
+
 
 Welcome to SapphireFoods, a food delivery application that allows users to browse and order delicious meals from various restaurants. This project aims to provide a convenient and user-friendly interface for customers to explore a wide range of cuisines and place their orders effortlessly.
 
@@ -90,3 +90,23 @@ Once you have the application up and running, here are a few pointers on how to 
 - Review your order and confirm the payment.
 - Track the status of your order through real-time updates.
 - Provide feedback and ratings for restaurants you've ordered from.
+
+---
+
+### Contributing
+Contributions to SapphireFoods are always welcome! If you want to contribute to this project, please follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them with descriptive messages.
+- Push your changes to your forked repository.
+- Submit a pull request to the main repository, explaining your changes.
+  
+Please ensure that your code adheres to the existing code style and includes relevant tests.
+
+---
+
+### License
+This project is licensed under the MIT License. You are free to use, modify, or distribute this software for personal or commercial purposes. See the LICENSE file for more details.
+
+We hope you enjoy using SapphireFoods! If you have any questions or encounter any issues, please feel free to open an issue on the repository.
